@@ -1,7 +1,7 @@
 # Using git
 
 | Command                                    | Description                                   |
-|--------------------------------------------+-----------------------------------------------|
+|--------------------------------------------|-----------------------------------------------|
 | git init                                   | Turn the current folder into a git repo       |
 | git add file                               | Add a file to the staging area                |
 | git add .                                  | Add all files in a folder to a repo           |
